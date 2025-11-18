@@ -12,8 +12,8 @@
 
 <h2>Environments and Technologies Used</h2>
 
-Jeremy' IT Lab Youtube Channel
-Cisco Packet Tracer
+- Jeremy' IT Lab Youtube Channel
+- Cisco Packet Tracer
   
 
   
