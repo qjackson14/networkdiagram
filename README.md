@@ -20,3 +20,13 @@
 <h2>Operating Systems Used </h2>
 
 - IOS
+
+
+<h2>Step-by-Step</h2>
+- Place two Cisco 2911 routers
+- Place two Cisco 2960 switches
+- Place two 5505 Firewalls
+- Place two PCs
+- Place two servers
+- Place an 'attacker'
+- Connect all devices together
