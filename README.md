@@ -23,6 +23,7 @@
 
 
 <h2>Step-by-Step</h2>
+
 - Place two Cisco 2911 routers
 
 - Place two Cisco 2960 switches
