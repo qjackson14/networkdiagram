@@ -60,7 +60,7 @@
 
 - Rename the laptop to Attacker.
 
-- 🟢 Part 4 — Connect Devices
+ <b>🟢 Part 4 — Connect Devices</b>
 
 - Click the Connections (lightning bolt) icon.
 
